@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-/* hedings and logo*/
+/* headings and logo*/
 
 h1,
 h2 {
@@ -58,7 +58,7 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Hero image */
+/* Hero image and cover text*/
 
 #hero-outer {
     height: 600px;
@@ -97,7 +97,7 @@ h2 {
 }
 
 #cover-text {
-    font-family: Oswald sans-serif;
+    font-family: Oswald, sans-serif;
     font-size: 130%;
     text-transform: uppercase;
     letter-spacing: 4px;
